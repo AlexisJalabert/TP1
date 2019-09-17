@@ -16,7 +16,7 @@ public class TP1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Coucou
+        // Ton main à rien dedans il faut écrire du code
     }
     
 }
