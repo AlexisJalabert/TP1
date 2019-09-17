@@ -12,7 +12,7 @@ package tp1;
 public class TP1 {
 
     /**
-     * Classe principale du projet avec de la crème 
+     * Classe principale du projet
      * @param args the command line arguments
      */
     public static void main(String[] args) {
