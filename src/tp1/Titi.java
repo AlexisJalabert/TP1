@@ -6,7 +6,7 @@
 package tp1;
 
 /**
- *
+ * Elle parle du dessin animé
  * @author ajalaber
  */
 public class Titi {
