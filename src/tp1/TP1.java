@@ -6,7 +6,7 @@
 package tp1;
 
 /**
- *NULLLLLL
+ *Changement d'auteur
  * @author ajalaber
  */
 public class TP1 {
